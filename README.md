@@ -4,7 +4,7 @@ This is a very very rudimentary start to create a theme for jQTouch that gives a
 
 It's based on the default theme with some tweaks. 
 
-I created it for an app, and it only has styles currently for he elements I was using in that app, so it is certainly incomplete.
+I created it for an app, and it only has styles currently for the elements I was using in that app, so it is certainly incomplete.
 
 It also assumes you won't be using some UI elements that make no sense in Android (such as buttons in the toolbar, etc).
 
